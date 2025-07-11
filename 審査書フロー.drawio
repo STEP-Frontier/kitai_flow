@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e" pages="4">
     <diagram name="制作フローのコピーのコピー" id="pfW3lf72uPNdmaA9rwUU">
-        <mxGraphModel dx="1417" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1763" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="v7Wbf7wJUb8fNGh6gjVY-0"/>
                 <mxCell id="v7Wbf7wJUb8fNGh6gjVY-1" parent="v7Wbf7wJUb8fNGh6gjVY-0"/>
@@ -13,34 +13,34 @@
                 <mxCell id="v7Wbf7wJUb8fNGh6gjVY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="v7Wbf7wJUb8fNGh6gjVY-16" source="v7Wbf7wJUb8fNGh6gjVY-18" target="v7Wbf7wJUb8fNGh6gjVY-19" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-18" value="第1次審査書期（期末後）" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="v7Wbf7wJUb8fNGh6gjVY-16" vertex="1">
+                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-18" value="第1次審査書期（期末後）" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="v7Wbf7wJUb8fNGh6gjVY-16" vertex="1">
                     <mxGeometry y="90" width="130" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-19" value="プレ" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="v7Wbf7wJUb8fNGh6gjVY-16" vertex="1">
+                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-19" value="プレ" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="v7Wbf7wJUb8fNGh6gjVY-16" vertex="1">
                     <mxGeometry x="120" y="30" width="20" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-24" value="電装タワー制作" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="v7Wbf7wJUb8fNGh6gjVY-16" vertex="1">
+                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-24" value="電装タワー制作" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="v7Wbf7wJUb8fNGh6gjVY-16" vertex="1">
                     <mxGeometry x="150" y="710" width="100" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-27" value="歓迎ご飯" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="v7Wbf7wJUb8fNGh6gjVY-16" vertex="1">
+                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-27" value="歓迎ご飯" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="v7Wbf7wJUb8fNGh6gjVY-16" vertex="1">
                     <mxGeometry y="1170" width="100" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-29" value="9軸成功" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="v7Wbf7wJUb8fNGh6gjVY-16" vertex="1">
+                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-29" value="9軸成功" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="v7Wbf7wJUb8fNGh6gjVY-16" vertex="1">
                     <mxGeometry x="93" y="980" width="100" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="v7Wbf7wJUb8fNGh6gjVY-30" value="ロードセル箱・基盤" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="v7Wbf7wJUb8fNGh6gjVY-16" vertex="1">
                     <mxGeometry y="230" width="100" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-32" value="本番プリント" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="v7Wbf7wJUb8fNGh6gjVY-16" vertex="1">
+                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-32" value="本番プリント" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="v7Wbf7wJUb8fNGh6gjVY-16" vertex="1">
                     <mxGeometry x="130" y="315" width="100" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-14" value="電装タワー決定" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="v7Wbf7wJUb8fNGh6gjVY-16" vertex="1">
+                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-14" value="電装タワー決定" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="v7Wbf7wJUb8fNGh6gjVY-16" vertex="1">
                     <mxGeometry y="710" width="100" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="v7Wbf7wJUb8fNGh6gjVY-80" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="v7Wbf7wJUb8fNGh6gjVY-16" source="v7Wbf7wJUb8fNGh6gjVY-14" target="v7Wbf7wJUb8fNGh6gjVY-24" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-10" value="社P実施形態の深掘り" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="v7Wbf7wJUb8fNGh6gjVY-16" vertex="1">
+                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-10" value="社P実施形態の深掘り" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="v7Wbf7wJUb8fNGh6gjVY-16" vertex="1">
                     <mxGeometry x="40" y="1080" width="170" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="v7Wbf7wJUb8fNGh6gjVY-34" value="電装プレート発注" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="v7Wbf7wJUb8fNGh6gjVY-16" vertex="1">
@@ -49,10 +49,10 @@
                 <mxCell id="v7Wbf7wJUb8fNGh6gjVY-40" value="6月下旬" style="swimlane;html=1;startSize=20;dashed=1;dashPattern=1 2;" parent="v7Wbf7wJUb8fNGh6gjVY-2" vertex="1">
                     <mxGeometry x="260" y="20" width="260" height="1260" as="geometry"/>
                 </mxCell>
-                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-41" value="新入生教育" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="v7Wbf7wJUb8fNGh6gjVY-40" vertex="1">
+                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-41" value="新入生教育" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="v7Wbf7wJUb8fNGh6gjVY-40" vertex="1">
                     <mxGeometry x="30" y="1170" width="100" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-42" value="1st" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="v7Wbf7wJUb8fNGh6gjVY-40" vertex="1">
+                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-42" value="1st" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="v7Wbf7wJUb8fNGh6gjVY-40" vertex="1">
                     <mxGeometry x="120" y="30" width="20" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="v7Wbf7wJUb8fNGh6gjVY-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="v7Wbf7wJUb8fNGh6gjVY-40" source="v7Wbf7wJUb8fNGh6gjVY-44" edge="1">
@@ -64,25 +64,25 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-44" value="第2次シミュレーション" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="v7Wbf7wJUb8fNGh6gjVY-40" vertex="1">
+                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-44" value="第2次シミュレーション" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="v7Wbf7wJUb8fNGh6gjVY-40" vertex="1">
                     <mxGeometry x="30" y="160" width="100" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-47" value="地上燃焼試験1st" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="v7Wbf7wJUb8fNGh6gjVY-40" vertex="1">
+                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-47" value="地上燃焼試験1st" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="v7Wbf7wJUb8fNGh6gjVY-40" vertex="1">
                     <mxGeometry x="60" y="230" width="100" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="mWcIP-Nt6csReat0SXpE-1" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="v7Wbf7wJUb8fNGh6gjVY-40" source="v7Wbf7wJUb8fNGh6gjVY-31" target="mWcIP-Nt6csReat0SXpE-0" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-31" value="分離組み立て" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="v7Wbf7wJUb8fNGh6gjVY-40" vertex="1">
+                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-31" value="分離組み立て" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="v7Wbf7wJUb8fNGh6gjVY-40" vertex="1">
                     <mxGeometry x="10" y="315" width="100" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="mWcIP-Nt6csReat0SXpE-0" value="分離荷重試験" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="v7Wbf7wJUb8fNGh6gjVY-40" vertex="1">
+                <mxCell id="mWcIP-Nt6csReat0SXpE-0" value="分離荷重試験" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="v7Wbf7wJUb8fNGh6gjVY-40" vertex="1">
                     <mxGeometry x="160" y="315" width="100" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-39" value="チューブ穴空け" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="v7Wbf7wJUb8fNGh6gjVY-40" vertex="1">
+                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-39" value="チューブ穴空け" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="v7Wbf7wJUb8fNGh6gjVY-40" vertex="1">
                     <mxGeometry x="73" y="470" width="260" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-12" value="金属部品発注" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="v7Wbf7wJUb8fNGh6gjVY-40" vertex="1">
+                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-12" value="金属部品発注" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="v7Wbf7wJUb8fNGh6gjVY-40" vertex="1">
                     <mxGeometry x="80" y="630" width="100" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="v7Wbf7wJUb8fNGh6gjVY-48" value="7月上旬" style="swimlane;html=1;startSize=20;dashed=1;dashPattern=1 2;" parent="v7Wbf7wJUb8fNGh6gjVY-2" vertex="1">
@@ -95,7 +95,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-50" value="第2&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;次審査書&lt;/span&gt;期&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;（期末後）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="v7Wbf7wJUb8fNGh6gjVY-48" vertex="1">
+                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-50" value="第2&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;次審査書&lt;/span&gt;期&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;（期末後）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="v7Wbf7wJUb8fNGh6gjVY-48" vertex="1">
                     <mxGeometry y="90" width="150" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="v7Wbf7wJUb8fNGh6gjVY-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="v7Wbf7wJUb8fNGh6gjVY-48" source="v7Wbf7wJUb8fNGh6gjVY-52" edge="1">
@@ -106,7 +106,7 @@
                 <mxCell id="v7Wbf7wJUb8fNGh6gjVY-52" value="地上燃焼試験2nd" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="v7Wbf7wJUb8fNGh6gjVY-48" vertex="1">
                     <mxGeometry x="133" y="230" width="100" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-53" value="2nd" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="v7Wbf7wJUb8fNGh6gjVY-48" vertex="1">
+                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-53" value="2nd" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="v7Wbf7wJUb8fNGh6gjVY-48" vertex="1">
                     <mxGeometry x="115" y="30" width="20" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="v7Wbf7wJUb8fNGh6gjVY-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="v7Wbf7wJUb8fNGh6gjVY-48" source="v7Wbf7wJUb8fNGh6gjVY-53" target="v7Wbf7wJUb8fNGh6gjVY-50" edge="1">
@@ -117,7 +117,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="mWcIP-Nt6csReat0SXpE-2" value="チューブ荷重試験" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="v7Wbf7wJUb8fNGh6gjVY-48" vertex="1">
+                <mxCell id="mWcIP-Nt6csReat0SXpE-2" value="チューブ荷重試験" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="v7Wbf7wJUb8fNGh6gjVY-48" vertex="1">
                     <mxGeometry x="150" y="560" width="100" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="v7Wbf7wJUb8fNGh6gjVY-15" value="本重心計測" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="v7Wbf7wJUb8fNGh6gjVY-48" vertex="1">
@@ -138,10 +138,13 @@
                 <mxCell id="v7Wbf7wJUb8fNGh6gjVY-23" value="モジュール結合・試験" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="v7Wbf7wJUb8fNGh6gjVY-48" vertex="1">
                     <mxGeometry x="143" y="880" width="100" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-36" value="ES成功" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="v7Wbf7wJUb8fNGh6gjVY-48" vertex="1">
+                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-36" value="ES成功" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="v7Wbf7wJUb8fNGh6gjVY-48" vertex="1">
                     <mxGeometry y="880" width="100" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="v7Wbf7wJUb8fNGh6gjVY-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="v7Wbf7wJUb8fNGh6gjVY-48" source="v7Wbf7wJUb8fNGh6gjVY-36" target="v7Wbf7wJUb8fNGh6gjVY-23" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8__-xJ1VK_UJQFw3Zxn6-2" style="edgeStyle=none;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="v7Wbf7wJUb8fNGh6gjVY-48" source="v7Wbf7wJUb8fNGh6gjVY-22" target="8__-xJ1VK_UJQFw3Zxn6-0">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="v7Wbf7wJUb8fNGh6gjVY-22" value="金属加工" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="v7Wbf7wJUb8fNGh6gjVY-48" vertex="1">
@@ -149,6 +152,9 @@
                 </mxCell>
                 <mxCell id="1I42DUbAPKEsejyjN5LN-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="v7Wbf7wJUb8fNGh6gjVY-48" source="v7Wbf7wJUb8fNGh6gjVY-22" target="v7Wbf7wJUb8fNGh6gjVY-15" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8__-xJ1VK_UJQFw3Zxn6-0" value="金属試験・曲げ試験" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="v7Wbf7wJUb8fNGh6gjVY-48">
+                    <mxGeometry x="23" y="540" width="100" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="v7Wbf7wJUb8fNGh6gjVY-56" value="7月下旬" style="swimlane;html=1;startSize=20;dashed=1;dashPattern=1 2;" parent="v7Wbf7wJUb8fNGh6gjVY-2" vertex="1">
                     <mxGeometry x="770" y="20" width="260" height="1260" as="geometry"/>
