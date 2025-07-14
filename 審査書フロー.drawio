@@ -103,7 +103,7 @@
                         <mxPoint x="79.99999999999977" y="190" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-52" value="地上燃焼試験2nd" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="v7Wbf7wJUb8fNGh6gjVY-48" vertex="1">
+                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-52" value="地上燃焼試験2nd" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="v7Wbf7wJUb8fNGh6gjVY-48" vertex="1">
                     <mxGeometry x="133" y="230" width="100" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="v7Wbf7wJUb8fNGh6gjVY-53" value="2nd" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="v7Wbf7wJUb8fNGh6gjVY-48" vertex="1">
