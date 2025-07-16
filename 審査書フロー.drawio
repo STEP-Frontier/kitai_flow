@@ -141,7 +141,7 @@
                 <mxCell id="v7Wbf7wJUb8fNGh6gjVY-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="v7Wbf7wJUb8fNGh6gjVY-48" source="v7Wbf7wJUb8fNGh6gjVY-36" target="v7Wbf7wJUb8fNGh6gjVY-23" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-22" value="金属加工" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="v7Wbf7wJUb8fNGh6gjVY-48" vertex="1">
+                <mxCell id="v7Wbf7wJUb8fNGh6gjVY-22" value="金属加工" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="v7Wbf7wJUb8fNGh6gjVY-48" vertex="1">
                     <mxGeometry y="630" width="100" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="v7Wbf7wJUb8fNGh6gjVY-56" value="7月下旬" style="swimlane;html=1;startSize=20;dashed=1;dashPattern=1 2;" parent="v7Wbf7wJUb8fNGh6gjVY-2" vertex="1">
@@ -185,7 +185,7 @@
                 <mxCell id="-z-bNrv3wPKpCMAyicmM-1" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="v7Wbf7wJUb8fNGh6gjVY-56" source="v7Wbf7wJUb8fNGh6gjVY-15" target="v7Wbf7wJUb8fNGh6gjVY-45" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="8__-xJ1VK_UJQFw3Zxn6-0" value="金属試験・曲げ試験" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="v7Wbf7wJUb8fNGh6gjVY-56">
+                <mxCell id="8__-xJ1VK_UJQFw3Zxn6-0" value="金属試験・曲げ試験" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="v7Wbf7wJUb8fNGh6gjVY-56" vertex="1">
                     <mxGeometry x="13" y="530" width="100" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="v7Wbf7wJUb8fNGh6gjVY-61" value="8月上旬" style="swimlane;html=1;startSize=20;dashed=1;dashPattern=1 2;" parent="v7Wbf7wJUb8fNGh6gjVY-2" vertex="1">
@@ -284,7 +284,7 @@
                 <mxCell id="1I42DUbAPKEsejyjN5LN-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="v7Wbf7wJUb8fNGh6gjVY-2" source="v7Wbf7wJUb8fNGh6gjVY-22" target="v7Wbf7wJUb8fNGh6gjVY-15" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="8__-xJ1VK_UJQFw3Zxn6-4" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="v7Wbf7wJUb8fNGh6gjVY-2" source="v7Wbf7wJUb8fNGh6gjVY-22" target="8__-xJ1VK_UJQFw3Zxn6-0">
+                <mxCell id="8__-xJ1VK_UJQFw3Zxn6-4" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="v7Wbf7wJUb8fNGh6gjVY-2" source="v7Wbf7wJUb8fNGh6gjVY-22" target="8__-xJ1VK_UJQFw3Zxn6-0" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="713" y="680"/>
